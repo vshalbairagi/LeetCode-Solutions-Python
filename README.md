@@ -4,14 +4,14 @@ Welcome to my LeetCode solutions repository!
 
 This repository contains my solutions to LeetCode problems, primarily written in **Python**. I use this repository to track my progress, improve my problem-solving skills, and practice Data Structures and Algorithms (DSA).
 
-## 🚀 Goals
+# 🚀 Goals
 
 * Solve LeetCode problems consistently.
 * Strengthen DSA fundamentals.
 * Improve coding interview preparation.
 * Write clean and efficient solutions.
 
-## 🛠 Language
+# 🛠 Language
 
 Python
 
